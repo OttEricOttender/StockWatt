@@ -15,5 +15,5 @@ The device parses this data and displays the current, next 2 or 3 hour (dependin
 - Breadboard
 
 ### Wiring
-![Wiring Scheme](/assets/Wiring.png")
+![/assets/Wiring.png](https://github.com/OttEricOttender/StockWatt/blob/main/assets/Wiring.png)
 
