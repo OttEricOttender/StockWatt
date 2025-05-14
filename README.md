@@ -14,6 +14,6 @@ The device parses this data and displays the current, next 2 or 3 hour (dependin
 - Wires
 - Breadboard
 
-###Wiring
-
+### Wiring
+![Wiring Scheme](/assets/Wiring.png")
 
